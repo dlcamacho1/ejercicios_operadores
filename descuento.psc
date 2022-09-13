@@ -4,3 +4,4 @@ Algoritmo descuento
 	//regrese el precio base y el descuento en pesos
 	//regrese el precio final a pagar (debe incluir el impuesto de IVA)
 FinAlgoritmo
+
